@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    ".dart_tool/": "explorerExcludedFiles",
+    ".packages": "explorerExcludedFiles",
+    "pubspec.lock": "explorerExcludedFiles",
+    "build/": "explorerExcludedFiles",
+    "doc/api/": "explorerExcludedFiles"
+  }
+}
